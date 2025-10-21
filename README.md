@@ -9,7 +9,6 @@ I'm working as a Frontend Developer at a non-profit organization, where I contri
 * 🌍  I'm based in St. Louis, MO
 * 🖥️  See my portfolio at [lavanyachand.dev](http://www.lavanyachand.dev/)
 * ✉️  You can contact me at [lavanyachand113@gmail.com](mailto:lavanyachand113@gmail.com)
-* 🧠  I'm currently learning Node.js
 
 ### Skills
 
