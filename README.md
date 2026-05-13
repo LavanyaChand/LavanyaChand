@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Enginner
 ------------------
 
-I'm working as a Frontend Developer at a non-profit organization, where I contribute to building and improving a mobile application using modern frameworks like React and React Native. Passionate about creating intuitive, responsive, and user-friendly experiences, I enjoy transforming ideas into functional products. With hands-on experience in React, Next.js, TailwindCSS, and Firebase, I’m eager to keep learning and adapting to new technologies while making an impact through software development.
+I'm a frontend-focused Software Engineer, where I contribute to building and improving a mobile application using modern frameworks like React and React Native. Passionate about creating intuitive, responsive, and user-friendly experiences, I enjoy transforming ideas into functional products. With hands-on experience in React, Next.js, TailwindCSS, and Firebase, I’m eager to keep learning and adapting to new technologies while making an impact through software development.
 
 * 🌍  I'm based in St. Louis, MO
 * 🖥️  See my portfolio at [lavanyachand.dev](http://www.lavanyachand.dev/)
