@@ -6,10 +6,6 @@ Software Enginner
 
 I'm a frontend-focused Software Engineer, where I contribute to building and improving a mobile application using modern frameworks like React and React Native. Passionate about creating intuitive, responsive, and user-friendly experiences, I enjoy transforming ideas into functional products. With hands-on experience in React, Next.js, TailwindCSS, and Firebase, I’m eager to keep learning and adapting to new technologies while making an impact through software development.
 
-* 🌍  I'm based in St. Louis, MO
-* 🖥️  See my portfolio at [lavanyachand.dev](http://www.lavanyachand.dev/)
-* ✉️  You can contact me at [lavanyachand05@gmail.com](mailto:lavanyachand05@gmail.com)
-
 ### Skills
 
 <div align="left">
